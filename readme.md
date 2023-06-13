@@ -7,10 +7,13 @@ Bienvenue dans notre application de chat en temps réel ! Cette application vous
 - **Inscription et Connexion** : Créez un compte ou connectez-vous avec vos identifiants pour accéder à l'application.
 <img  src="https://github.com/FatimaEzzahraElAyadi/Chat_Application/blob/master/images/insc.png" >
 <img  src="https://github.com/FatimaEzzahraElAyadi/Chat_Application/blob/master/images/auth.png" >
+
 - **Liste des utilisateurs** : Consultez la liste des utilisateurs connectés et disponibles pour discuter.
 <img  src="https://github.com/FatimaEzzahraElAyadi/Chat_Application/blob/master/images/profil.png" >
+
 - **Chat individuel** : Sélectionnez un utilisateur dans la liste et démarrez une conversation privée avec lui.
 <img  src="https://github.com/FatimaEzzahraElAyadi/Chat_Application/blob/master/images/msg1 (1).PNG" >
+
 - **Envoi de messages en temps réel** : Échangez des messages en temps réel avec d'autres utilisateurs. Les messages s'affichent immédiatement à l'écran.
 <img  src="https://github.com/FatimaEzzahraElAyadi/Chat_Application/blob/master/images/msg2.PNG" >
 
