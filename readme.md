@@ -1,8 +1,8 @@
-# Application de Chat 
+# 📱 Application de Chat 
 
 Bienvenue dans notre application de chat en temps réel ! Cette application vous permet de communiquer avec d'autres utilisateurs en utilisant des technologies basées sur JavaScript et PHP. Voici quelques informations importantes pour vous aider à démarrer :
 
-## Fonctionnalités principales
+## 📋 Fonctionnalités principales
 
 - **Inscription et Connexion** : Créez un compte ou connectez-vous avec vos identifiants pour accéder à l'application.
 <img  src="https://github.com/FatimaEzzahraElAyadi/Chat_Application/blob/master/images/insc.png" >
@@ -17,7 +17,7 @@ Bienvenue dans notre application de chat en temps réel ! Cette application vous
 - **Envoi de messages en temps réel** : Échangez des messages en temps réel avec d'autres utilisateurs. Les messages s'affichent immédiatement à l'écran.
 <img  src="https://github.com/FatimaEzzahraElAyadi/Chat_Application/blob/master/images/msg2.PNG" >
 
-## Installation et configuration
+## 🚀 Installation et configuration
 
 Suivez les étapes ci-dessous pour installer et configurer l'application sur votre serveur :
 
@@ -33,7 +33,7 @@ Suivez les étapes ci-dessous pour installer et configurer l'application sur vot
 
 6. **Démarrage de l'application** : Ouvrez votre navigateur et accédez à l'URL correspondant à votre serveur pour utiliser l'application de chat.
 
-## Structure du projet
+## 📦 Structure du projet
 
 - Le répertoire `css` contient les fichiers CSS pour la mise en page de l'application.
 - Le répertoire `js` contient les fichiers JavaScript pour la logique de l'application.
@@ -44,7 +44,7 @@ Suivez les étapes ci-dessous pour installer et configurer l'application sur vot
 
 Nous encourageons les contributions de la communauté pour améliorer cette application de chat. Si vous souhaitez contribuer, veuillez consulter le fichier CONTRIBUTING.md pour obtenir des informations détaillées sur la façon de soumettre des pull requests.
 
-## Aide et support
+## 🆘 Aide et support
 
 Si vous avez des questions, des problèmes techniques ou besoin d'une assistance supplémentaire, veuillez contacter notre équipe d'assistance à l'adresse elayadifatista@gmail.com.
 
