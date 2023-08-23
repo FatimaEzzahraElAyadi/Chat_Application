@@ -52,4 +52,4 @@ Nous espérons que vous apprécierez l'utilisation de notre application de chat 
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/FatimaEzzahraElAyadi/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ismail-harik-241b371b9](https://www.linkedin.com/in/fatima-ezzahra-el-ayadi-977bb5196/))
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-ezzahra-el-ayadi-977bb5196/)
